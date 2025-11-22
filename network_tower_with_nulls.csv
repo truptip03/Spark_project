@@ -1,0 +1,1001 @@
+Tower_ID,Location,Signal_Strength_dBm,Network_Type,Bandwidth_Mbps,Latency_ms,Uplink_Utilization,Downlink_Utilization,Power_Status,Temperature_C,Alarm_Status
+TWR004,Pune,-80,4G,57.4,102,46,88,Battery,47,Normal
+TWR014,Pune,-90,2G,56.2,72,78,46,Battery,36,Normal
+TWR018,Nashik,-67,3G,148.1,111,95,45,ON,43,Normal
+TWR005,Mumbai,-89,4G,25,20,62,67,Battery,38,Minor Alarm
+TWR015,Aurangabad,-71,2G,21.5,45,93,85,Battery,41,Normal
+TWR003,Pune,-77,3G,246.3,117,54,51,OFF,38,Normal
+TWR012,Mumbai,-73,4G,54,42,84,88,Battery,32,Normal
+TWR006,Aurangabad,-85,3G,116.6,42,80,89,Battery,37,Normal
+TWR002,Mumbai,-75,2G,101.5,16,53,81,Battery,,Normal
+TWR016,Nashik,-86,5G,,39,87,80,Battery,38,Normal
+TWR014,Aurangabad,-72,5G,56.4,25,72,76,ON,31,Minor Alarm
+TWR005,Mumbai,-57,5G,17.8,56,78,74,Battery,38,Critical
+TWR001,Pune,-74,4G,29.7,63,50,74,ON,38,Critical
+TWR006,Aurangabad,-55,2G,76,89,72,83,ON,34,Normal
+TWR006,Aurangabad,-57,2G,82.4,10,47,68,OFF,37,Normal
+TWR019,Pune,-64,2G,204.4,105,74,94,ON,34,Normal
+TWR018,Mumbai,-62,4G,218.4,62,53,79,Battery,36,Normal
+TWR013,Nagpur,-62,5G,114,39,54,49,OFF,30,Normal
+TWR008,Aurangabad,-95,3G,19.6,88,43,59,ON,31,Minor Alarm
+TWR003,Aurangabad,-78,3G,167.9,35,74,53,Battery,48,Normal
+TWR008,Nashik,-83,5G,25.4,92,67,67,OFF,43,Normal
+TWR002,Pune,-70,2G,182.6,110,95,51,ON,36,Normal
+TWR015,Mumbai,-84,5G,71.1,39,95,49,OFF,47,Normal
+TWR018,Pune,-80,2G,43.2,70,70,58,OFF,31,Normal
+TWR001,Nashik,-66,4G,72.7,97,86,95,Battery,45,Normal
+TWR010,Mumbai,-58,2G,184.5,15,87,65,ON,31,Normal
+TWR017,Aurangabad,-92,3G,240.3,18,94,56,ON,,Normal
+TWR008,Nashik,-59,2G,63.1,84,42,84,ON,43,Normal
+TWR019,Aurangabad,-79,4G,52.7,99,60,60,OFF,42,Normal
+TWR010,Nashik,-91,4G,4.3,87,76,51,ON,47,Normal
+TWR009,Mumbai,-91,4G,220.1,55,58,55,OFF,47,Normal
+TWR020,Aurangabad,-60,2G,76.2,92,46,53,OFF,33,Minor Alarm
+TWR018,Mumbai,-77,4G,152,99,61,58,Battery,38,Normal
+TWR009,Pune,-55,2G,107,43,42,45,OFF,34,Normal
+TWR009,Mumbai,-60,5G,177,79,40,52,ON,34,Normal
+TWR012,Aurangabad,-68,3G,33.6,47,63,95,ON,41,Normal
+TWR008,Pune,-60,4G,221.3,60,79,92,ON,37,Minor Alarm
+TWR006,Nashik,-84,2G,184.7,50,90,71,Battery,37,Normal
+TWR004,Nashik,-65,2G,57.2,112,69,67,,37,Normal
+TWR007,Nashik,-78,4G,216.4,106,57,67,Battery,,Normal
+TWR018,Nagpur,-88,2G,219.5,41,51,82,OFF,31,Normal
+TWR014,Nagpur,-68,4G,152.3,73,47,69,Battery,36,Normal
+TWR014,Pune,-72,3G,109,93,61,84,OFF,33,Normal
+TWR010,Aurangabad,-69,4G,82.9,97,58,80,ON,36,Normal
+TWR013,Mumbai,-70,4G,137.9,8,59,63,ON,43,Normal
+TWR020,Nagpur,-67,5G,111.7,35,72,75,Battery,35,Normal
+TWR010,Aurangabad,-90,4G,205,104,55,88,OFF,37,Minor Alarm
+TWR005,Pune,-80,2G,,86,94,94,ON,44,Normal
+TWR019,Mumbai,-64,5G,101.1,26,81,89,ON,33,Normal
+TWR008,Mumbai,-92,5G,140.2,116,47,74,ON,44,Normal
+TWR018,Aurangabad,-67,4G,153.9,100,72,72,Battery,44,Minor Alarm
+TWR016,Nashik,-80,4G,210.3,43,89,94,Battery,45,Normal
+TWR009,Nashik,-77,2G,60.2,50,60,79,ON,34,Normal
+TWR013,Mumbai,-91,3G,104.9,50,74,74,OFF,31,Normal
+TWR014,Nashik,-59,2G,96.3,8,62,64,OFF,43,Normal
+TWR018,Aurangabad,-64,3G,56.4,63,71,46,OFF,40,Normal
+TWR013,Mumbai,-87,5G,,76,41,70,Battery,48,Normal
+TWR003,Nashik,-66,3G,47.1,41,64,65,ON,44,Normal
+TWR013,Nagpur,-79,5G,209.1,68,41,92,Battery,31,Critical
+TWR012,Mumbai,-93,2G,189,39,52,98,ON,34,Normal
+TWR016,Pune,-66,3G,175.5,106,63,55,Battery,33,Normal
+TWR006,Nagpur,-58,2G,8.4,47,76,88,OFF,42,Minor Alarm
+TWR007,Pune,-89,3G,174.9,46,94,88,Battery,33,Normal
+TWR019,Pune,-61,4G,108.2,55,44,77,Battery,40,Normal
+TWR014,Nashik,-68,2G,240.3,89,93,74,Battery,34,Normal
+TWR017,Nagpur,-66,5G,110,101,77,62,OFF,37,Minor Alarm
+TWR003,Nagpur,-80,5G,,80,79,87,OFF,40,Normal
+TWR011,Mumbai,-82,5G,90,41,61,62,Battery,38,Normal
+TWR017,Mumbai,-80,2G,180.6,70,75,93,ON,45,Normal
+TWR016,Nashik,-90,2G,75,59,84,60,OFF,48,Normal
+TWR018,Aurangabad,-68,4G,,78,61,67,,44,Normal
+TWR009,Mumbai,-83,2G,80.3,103,74,93,Battery,35,Normal
+TWR016,Nagpur,-89,4G,208.5,45,54,68,ON,39,Normal
+TWR018,Mumbai,-93,4G,243.6,78,58,89,ON,45,Normal
+TWR001,Aurangabad,-65,4G,120.7,51,51,48,OFF,45,Normal
+TWR003,Nashik,-91,5G,145.1,95,43,54,ON,48,Minor Alarm
+TWR003,Mumbai,,2G,191.6,85,78,95,Battery,37,Normal
+TWR013,Nashik,-76,5G,215.3,62,59,81,Battery,31,Normal
+TWR004,Mumbai,-79,3G,165.8,28,55,56,Battery,32,Normal
+TWR014,Nashik,-77,5G,10.1,44,85,63,Battery,44,Normal
+TWR008,Nagpur,-68,3G,30.5,36,81,54,OFF,34,Normal
+TWR006,Nagpur,-67,4G,32.8,96,59,89,OFF,38,Normal
+TWR016,Nashik,-57,2G,11.9,63,87,65,Battery,38,Normal
+TWR008,Aurangabad,-78,2G,144.9,105,88,56,OFF,46,Normal
+TWR009,Mumbai,-55,5G,203.9,19,70,67,OFF,40,Normal
+TWR004,Mumbai,-69,4G,174,44,82,70,Battery,31,Normal
+TWR011,Nagpur,-88,4G,242.6,59,95,77,ON,47,Normal
+TWR002,Mumbai,-56,4G,189.6,88,68,93,ON,36,Normal
+TWR005,Nagpur,-64,5G,32.1,88,78,96,ON,35,Normal
+TWR001,Aurangabad,-90,5G,57.7,115,47,74,ON,34,Normal
+TWR010,Aurangabad,-69,4G,,68,55,74,Battery,34,Normal
+TWR020,Aurangabad,-91,3G,70.5,109,94,71,OFF,46,Normal
+TWR001,Nagpur,-58,4G,145.8,92,71,54,OFF,47,Normal
+TWR011,Aurangabad,-66,5G,,119,52,89,ON,48,Normal
+TWR014,Pune,-65,4G,176.9,111,64,69,,34,Normal
+TWR002,Mumbai,-89,4G,218.8,64,46,78,OFF,30,Normal
+TWR014,Mumbai,-65,2G,195.8,41,61,84,Battery,42,Normal
+TWR011,Aurangabad,-75,5G,157.4,105,71,79,,32,Normal
+TWR010,Mumbai,-68,2G,244.6,105,80,90,ON,44,Normal
+TWR010,Pune,-75,2G,199.4,45,62,68,OFF,34,Normal
+TWR014,Aurangabad,-85,3G,,86,95,69,Battery,37,Normal
+TWR019,Mumbai,,3G,160.2,66,56,87,ON,44,Minor Alarm
+TWR018,Mumbai,-67,2G,236.4,83,59,85,OFF,38,Normal
+TWR010,Mumbai,-65,5G,28.5,56,76,67,Battery,39,Critical
+TWR010,Pune,-78,5G,4,118,83,94,Battery,31,Minor Alarm
+TWR016,Nagpur,-57,3G,200.9,36,80,57,,38,Normal
+TWR005,Pune,-76,2G,197.6,12,77,68,Battery,34,Normal
+TWR010,Nagpur,-84,5G,51.8,108,74,68,Battery,46,Minor Alarm
+TWR006,Nagpur,-77,5G,187.1,51,91,52,OFF,32,Normal
+TWR008,Nashik,-90,4G,198.1,9,56,79,ON,44,Normal
+TWR009,Aurangabad,-55,5G,235.2,21,83,59,OFF,30,Normal
+TWR018,Nagpur,-91,3G,159.6,67,84,64,Battery,43,Normal
+TWR002,Pune,-64,4G,30.8,38,74,53,OFF,44,Normal
+TWR018,Nashik,-69,3G,164.4,114,71,84,OFF,38,Normal
+TWR012,Mumbai,-67,5G,237.7,117,63,51,Battery,41,Normal
+TWR012,Pune,-78,5G,49.1,23,94,97,OFF,32,Normal
+TWR020,Pune,-74,2G,62.4,24,90,81,ON,32,Minor Alarm
+TWR018,Mumbai,-81,3G,83.5,26,90,83,ON,38,Minor Alarm
+TWR005,Mumbai,-84,4G,29.3,118,41,53,ON,41,Normal
+TWR008,Aurangabad,-94,4G,45.2,14,48,92,OFF,46,Normal
+TWR003,Nashik,-72,5G,129.3,21,68,77,ON,31,Normal
+TWR017,Nagpur,-94,5G,17.1,69,94,70,OFF,33,Normal
+TWR015,Pune,-75,2G,152.9,16,48,62,Battery,,Normal
+TWR011,Nashik,-66,4G,127.4,63,46,95,Battery,33,Minor Alarm
+TWR018,Mumbai,-67,5G,222.2,60,61,97,OFF,42,Normal
+TWR004,Nagpur,-75,5G,166.9,55,49,88,OFF,32,Normal
+TWR003,Pune,-89,5G,186.7,55,91,53,Battery,31,Normal
+TWR018,Aurangabad,-88,4G,103.9,119,82,93,OFF,31,Critical
+TWR020,Nagpur,-89,4G,145.3,35,49,87,OFF,37,Minor Alarm
+TWR012,Aurangabad,-88,4G,191.1,81,54,96,OFF,47,Critical
+TWR020,Aurangabad,-57,2G,232.4,114,84,62,ON,,Normal
+TWR010,Nagpur,-95,4G,47,26,76,87,OFF,32,Normal
+TWR001,Pune,-71,3G,106.1,51,50,68,OFF,40,Normal
+TWR019,Aurangabad,-92,2G,40.6,104,79,48,Battery,32,Normal
+TWR014,Nashik,-69,5G,69.7,104,72,52,OFF,43,Normal
+TWR019,Nashik,-93,4G,56.7,84,43,45,ON,39,Minor Alarm
+TWR005,Nagpur,,4G,31.8,71,87,72,ON,34,Normal
+TWR008,Aurangabad,-91,4G,100.5,102,42,72,ON,44,Minor Alarm
+TWR011,Aurangabad,-59,5G,102.3,89,66,63,ON,42,Normal
+TWR011,Mumbai,-72,5G,23.9,116,46,60,OFF,48,Normal
+TWR003,Nashik,-74,4G,56.9,107,50,49,Battery,33,Normal
+TWR007,Nagpur,-86,4G,60.6,26,56,57,ON,34,Normal
+TWR003,Mumbai,-66,5G,189.1,105,77,73,Battery,48,Normal
+TWR020,Nagpur,-86,4G,111.1,68,68,85,OFF,38,Normal
+TWR012,Aurangabad,-76,2G,116.5,12,43,68,OFF,32,Normal
+TWR003,Aurangabad,-66,5G,145.9,109,87,47,OFF,48,Normal
+TWR011,Aurangabad,-63,5G,39.4,15,68,51,OFF,32,Normal
+TWR006,Pune,-67,3G,247.8,75,73,84,ON,41,Normal
+TWR010,Nashik,-74,5G,170.4,14,90,85,Battery,40,Normal
+TWR004,Aurangabad,-77,5G,64.5,117,82,83,ON,40,Normal
+TWR005,Nagpur,-70,4G,34,98,45,64,Battery,42,Normal
+TWR011,Mumbai,-68,2G,128.1,10,63,64,ON,36,Normal
+TWR016,Mumbai,-87,3G,40.4,45,94,95,ON,46,Normal
+TWR017,Pune,-56,4G,34.5,56,49,55,ON,35,Normal
+TWR002,Nashik,-80,4G,242.5,86,58,93,Battery,44,Normal
+TWR008,Nagpur,-83,5G,93.2,81,68,74,OFF,42,Normal
+TWR014,Mumbai,-57,3G,36.3,40,43,86,OFF,41,Normal
+TWR004,Aurangabad,-77,2G,22.8,28,57,73,Battery,34,Minor Alarm
+TWR003,Mumbai,-73,5G,232.8,61,43,70,Battery,41,Normal
+TWR003,Nagpur,-94,3G,81,20,93,90,Battery,40,Normal
+TWR005,Pune,-65,4G,174.6,25,88,90,OFF,44,Normal
+TWR003,Pune,-82,4G,209.1,78,86,83,Battery,43,Normal
+TWR010,Mumbai,-88,4G,13.8,61,80,95,Battery,44,Normal
+TWR016,Aurangabad,-55,2G,129.8,38,85,54,OFF,43,Normal
+TWR012,Mumbai,-84,5G,166.8,18,73,68,ON,46,Normal
+TWR017,Aurangabad,-71,2G,218.6,13,80,69,OFF,38,Normal
+TWR012,Pune,-80,4G,183.8,88,46,94,Battery,40,Normal
+TWR012,Aurangabad,-84,4G,207.9,95,69,89,OFF,35,Minor Alarm
+TWR003,Nashik,-77,2G,52,109,52,47,OFF,39,Normal
+TWR018,Nashik,-93,4G,188.8,32,58,67,ON,40,Normal
+TWR012,Nashik,-67,5G,223.9,57,61,56,OFF,45,Normal
+TWR017,Nagpur,-68,2G,21.6,85,92,56,Battery,39,Normal
+TWR003,Nagpur,-76,4G,,99,67,55,Battery,44,Normal
+TWR002,Nagpur,-78,5G,160.6,109,43,49,Battery,42,Normal
+TWR006,Pune,,3G,170.2,64,42,53,ON,37,Normal
+TWR012,Nagpur,-59,5G,10,27,83,73,OFF,41,Normal
+TWR003,Aurangabad,-62,3G,93,48,81,62,ON,,Normal
+TWR006,Nashik,-60,5G,31.2,107,56,90,OFF,36,Critical
+TWR010,Nashik,-88,3G,35.7,17,68,56,Battery,44,Critical
+TWR011,Nagpur,-60,2G,136.5,46,94,55,Battery,35,Normal
+TWR017,Mumbai,-83,2G,198.4,38,90,76,ON,41,Normal
+TWR012,Nashik,-56,3G,221.3,16,59,70,Battery,45,Normal
+TWR014,Aurangabad,-87,2G,243.2,90,44,73,OFF,46,Normal
+TWR018,Aurangabad,-87,3G,109.3,119,43,98,ON,46,Normal
+TWR006,Mumbai,-81,4G,87.8,74,58,50,OFF,36,Normal
+TWR018,Nagpur,-55,3G,77.1,76,45,77,Battery,35,Normal
+TWR019,Mumbai,-56,3G,180.7,85,61,98,Battery,31,Minor Alarm
+TWR001,Pune,-59,2G,67.6,34,89,81,OFF,30,Normal
+TWR018,Nagpur,-65,4G,62.7,111,83,70,OFF,44,Normal
+TWR002,Mumbai,-69,5G,122.1,34,61,83,ON,40,Minor Alarm
+TWR011,Nagpur,-87,5G,190.6,73,75,51,OFF,37,Normal
+TWR009,Nashik,-86,3G,26,45,64,84,OFF,37,Critical
+TWR006,Nagpur,-83,4G,191.3,71,72,74,OFF,39,Normal
+TWR003,Nashik,-80,5G,55.4,53,43,48,OFF,45,Normal
+TWR016,Nagpur,-89,2G,108.9,120,56,91,OFF,42,Normal
+TWR013,Pune,-72,3G,139.2,17,64,77,OFF,47,Normal
+TWR020,Aurangabad,-87,2G,243.8,58,63,95,,47,Minor Alarm
+TWR005,Mumbai,-63,5G,12,12,48,90,OFF,45,Normal
+TWR005,Aurangabad,-75,3G,233,48,50,70,Battery,39,Normal
+TWR017,Aurangabad,-59,5G,76.3,112,41,68,OFF,33,Critical
+TWR019,Nagpur,-57,2G,119.7,91,90,94,Battery,48,Normal
+TWR002,Aurangabad,-85,5G,132,100,79,94,OFF,34,Minor Alarm
+TWR008,Pune,-83,2G,6.7,48,66,54,OFF,36,Normal
+TWR020,Nashik,-87,2G,130.6,79,60,87,OFF,46,Normal
+TWR006,Nashik,-61,4G,89.9,106,95,91,Battery,38,Normal
+TWR007,Mumbai,-60,4G,76,46,89,63,,36,Normal
+TWR016,Nagpur,-73,5G,141,109,86,62,OFF,,Normal
+TWR018,Nashik,-73,5G,238.7,110,49,63,ON,39,Critical
+TWR003,Nagpur,-79,5G,187.3,35,52,97,Battery,38,Minor Alarm
+TWR009,Mumbai,-56,2G,185.7,38,55,48,Battery,,Normal
+TWR008,Pune,,2G,83.9,68,46,88,ON,30,Critical
+TWR006,Nashik,-65,5G,163.3,104,58,65,,31,Minor Alarm
+TWR003,Aurangabad,-61,3G,185.2,116,42,56,OFF,35,Minor Alarm
+TWR002,Nashik,-84,5G,234.3,119,58,47,ON,39,Normal
+TWR004,Nagpur,-66,4G,247.3,77,73,76,ON,46,Normal
+TWR007,Pune,-85,4G,183.3,90,56,90,ON,30,Normal
+TWR010,Aurangabad,-84,3G,153.5,89,65,97,OFF,46,Normal
+TWR013,Pune,-87,3G,120.4,39,40,61,OFF,37,Normal
+TWR009,Nagpur,-58,4G,181.3,9,56,86,OFF,37,Normal
+TWR004,Nashik,-85,4G,102.5,72,85,94,OFF,33,Normal
+TWR010,Nagpur,-81,3G,239.4,69,49,74,Battery,41,Normal
+TWR018,Nashik,-80,3G,170.7,84,95,95,ON,46,Normal
+TWR012,Pune,-92,2G,207.5,72,52,81,Battery,34,Normal
+TWR017,Nashik,-82,2G,179.8,70,45,77,,31,Normal
+TWR017,Nashik,-59,5G,16.3,67,83,96,OFF,30,Normal
+TWR001,Mumbai,-93,2G,107.1,97,44,79,ON,32,Critical
+TWR016,Pune,-69,4G,46.6,25,89,86,Battery,43,Normal
+TWR013,Nashik,-71,5G,21.9,92,95,79,ON,41,Normal
+TWR018,Nashik,-81,3G,209,104,41,64,OFF,47,Normal
+TWR013,Mumbai,-66,3G,87.8,43,52,91,ON,31,Minor Alarm
+TWR014,Aurangabad,-80,2G,53.1,20,78,47,OFF,31,Normal
+TWR002,Nashik,-81,5G,135.9,104,95,94,ON,34,Normal
+TWR010,Mumbai,-59,4G,150.3,94,92,65,ON,39,Minor Alarm
+TWR017,Mumbai,-76,5G,70.2,79,77,92,ON,43,Normal
+TWR002,Nagpur,-62,5G,81,61,66,54,OFF,42,Normal
+TWR018,Nashik,,3G,76.6,98,49,96,OFF,31,Normal
+TWR014,Aurangabad,-71,3G,62.2,34,61,86,ON,44,Minor Alarm
+TWR003,Aurangabad,-92,3G,68.6,94,78,83,ON,32,Normal
+TWR019,Aurangabad,-65,3G,53.8,50,59,45,ON,36,Critical
+TWR004,Nashik,-57,3G,176.5,58,55,80,OFF,39,Normal
+TWR018,Nagpur,-79,4G,91.2,120,71,74,ON,45,Normal
+TWR011,Mumbai,-75,4G,104.7,80,95,59,Battery,34,Normal
+TWR018,Aurangabad,-77,5G,39.8,50,54,69,Battery,37,Normal
+TWR011,Nagpur,-64,5G,116.3,101,90,67,ON,34,Normal
+TWR016,Mumbai,-62,2G,10.4,116,44,97,Battery,31,Normal
+TWR014,Mumbai,-91,3G,177.4,9,53,77,OFF,41,Normal
+TWR020,Nashik,-94,5G,3.6,78,66,45,ON,46,Normal
+TWR018,Nagpur,-63,2G,203.7,94,67,96,ON,33,Minor Alarm
+TWR017,Mumbai,-83,3G,155.7,40,92,67,OFF,42,Normal
+TWR013,Nashik,-81,3G,76.4,113,94,50,Battery,31,Normal
+TWR013,Nashik,-92,5G,159.9,97,50,50,OFF,43,Normal
+TWR011,Aurangabad,-62,2G,229.9,37,53,89,Battery,45,Normal
+TWR003,Nagpur,-84,2G,232.3,48,41,58,Battery,34,Normal
+TWR013,Pune,-85,4G,141.9,80,93,69,Battery,47,Normal
+TWR005,Pune,-92,4G,26.2,37,93,49,OFF,42,Critical
+TWR011,Pune,-67,4G,123.7,53,75,69,OFF,35,Normal
+TWR013,Pune,-80,4G,178.9,18,57,54,OFF,34,Normal
+TWR011,Nagpur,-90,2G,3.3,47,68,68,OFF,33,Normal
+TWR006,Nashik,-60,5G,139.6,60,46,46,ON,41,Normal
+TWR020,Aurangabad,-71,4G,5.1,60,64,94,ON,47,Minor Alarm
+TWR008,Aurangabad,-71,3G,44,42,59,62,OFF,34,Normal
+TWR014,Nagpur,-76,5G,122.1,17,63,61,ON,45,Normal
+TWR007,Nashik,-87,2G,77.6,58,61,98,Battery,42,Minor Alarm
+TWR011,Nashik,-68,4G,204.2,118,81,83,ON,39,Normal
+TWR007,Nashik,-84,4G,,48,58,92,Battery,45,Critical
+TWR008,Nagpur,-78,5G,204.5,58,63,52,Battery,36,Normal
+TWR018,Mumbai,-66,2G,235.9,34,68,96,OFF,32,Minor Alarm
+TWR014,Nashik,-55,3G,77.1,40,82,54,Battery,43,Normal
+TWR003,Nashik,-58,5G,101.4,72,95,89,OFF,47,Normal
+TWR012,Aurangabad,-89,2G,192.7,92,82,67,ON,31,Normal
+TWR013,Nagpur,-89,5G,4.6,41,54,77,Battery,46,Normal
+TWR019,Mumbai,-72,5G,99,106,83,82,Battery,46,Normal
+TWR001,Nashik,-77,2G,105.2,18,47,98,Battery,34,Normal
+TWR011,Nashik,-62,3G,121.8,68,46,73,Battery,44,Normal
+TWR010,Pune,-94,2G,212.6,90,46,88,ON,37,Normal
+TWR018,Mumbai,-60,4G,107.7,67,54,96,OFF,35,Normal
+TWR014,Nashik,-56,2G,221,65,77,72,OFF,30,Normal
+TWR007,Nagpur,-59,2G,27.2,119,74,56,OFF,40,Normal
+TWR004,Nagpur,-62,5G,241.5,48,78,69,Battery,42,Normal
+TWR012,Nagpur,-56,5G,44.8,94,85,96,OFF,48,Normal
+TWR005,Nagpur,,2G,77.7,31,63,89,ON,46,Normal
+TWR020,Mumbai,-68,5G,48.1,89,74,89,Battery,35,Normal
+TWR016,Nagpur,-84,3G,80,65,79,48,OFF,30,Normal
+TWR007,Nashik,-69,5G,171.8,61,85,98,OFF,45,Normal
+TWR019,Pune,-77,3G,10.1,36,74,63,ON,44,Normal
+TWR016,Aurangabad,-59,2G,30.3,107,74,97,OFF,47,Minor Alarm
+TWR002,Nashik,-68,3G,27.4,114,81,93,ON,39,Minor Alarm
+TWR002,Nashik,-73,4G,215.8,19,68,52,ON,36,Minor Alarm
+TWR019,Nagpur,-85,5G,154.8,108,53,97,ON,31,Normal
+TWR018,Nagpur,-75,3G,244.8,45,58,81,OFF,46,Critical
+TWR004,Mumbai,-92,5G,248.1,118,81,53,Battery,34,Normal
+TWR011,Mumbai,-64,5G,37.3,88,57,85,OFF,42,Normal
+TWR003,Nashik,-72,4G,114.8,70,60,82,ON,32,Normal
+TWR015,Nagpur,-61,2G,100.6,62,92,58,OFF,38,Normal
+TWR010,Nagpur,-59,3G,213.4,108,61,88,ON,31,Normal
+TWR015,Pune,-85,2G,111.4,8,67,57,Battery,34,Minor Alarm
+TWR010,Mumbai,-90,4G,164.3,40,45,68,Battery,35,Normal
+TWR010,Mumbai,-90,5G,176.5,8,53,75,ON,34,Normal
+TWR017,Nashik,-95,2G,174.5,112,47,72,Battery,,Normal
+TWR008,Nashik,-89,2G,27.6,55,59,53,OFF,34,Normal
+TWR005,Pune,-56,2G,163.2,64,62,91,ON,34,Minor Alarm
+TWR020,Nashik,-90,3G,224.4,25,88,52,Battery,42,Normal
+TWR014,Nagpur,-80,3G,70.7,18,55,80,Battery,39,Normal
+TWR001,Nagpur,-62,3G,152.5,32,87,70,OFF,31,Normal
+TWR008,Nashik,-88,5G,61.8,89,78,49,Battery,30,Critical
+TWR011,Mumbai,-59,5G,106.4,77,83,56,OFF,32,Normal
+TWR003,Pune,-82,4G,11.9,15,90,70,Battery,,Normal
+TWR017,Nashik,-70,5G,22.4,76,74,84,ON,38,Normal
+TWR003,Aurangabad,-86,3G,135,58,77,85,Battery,32,Normal
+TWR014,Mumbai,-80,2G,23.4,63,47,74,Battery,31,Normal
+TWR006,Pune,-87,2G,176,28,71,67,Battery,46,Normal
+TWR009,Mumbai,-87,4G,187.9,119,57,91,ON,30,Normal
+TWR014,Nagpur,-79,2G,178.7,81,80,49,OFF,44,Normal
+TWR002,Nashik,-72,3G,41,106,46,81,Battery,33,Normal
+TWR017,Pune,-95,2G,,68,63,69,ON,35,Minor Alarm
+TWR002,Aurangabad,-81,5G,81.8,61,86,65,OFF,32,Normal
+TWR004,Aurangabad,-84,2G,57.3,74,42,70,ON,44,Minor Alarm
+TWR010,Nagpur,-60,2G,115.3,55,52,63,Battery,39,Normal
+TWR008,Nashik,-58,4G,243,106,89,57,Battery,47,Normal
+TWR008,Mumbai,,2G,7.9,77,62,85,Battery,30,Critical
+TWR001,Nashik,-89,4G,52.9,38,66,76,ON,34,Normal
+TWR003,Pune,-62,3G,104.4,55,69,92,,48,Normal
+TWR005,Nashik,-58,2G,142.8,63,82,53,ON,39,Normal
+TWR011,Nashik,-75,4G,114.3,37,44,57,ON,48,Normal
+TWR004,Mumbai,-66,5G,79.9,23,74,67,ON,44,Normal
+TWR009,Pune,-85,2G,202.3,46,92,90,Battery,31,Normal
+TWR011,Mumbai,-80,2G,242.2,58,72,48,Battery,39,Normal
+TWR006,Pune,-67,5G,139.9,78,55,51,OFF,33,Minor Alarm
+TWR005,Pune,-92,2G,207.9,36,48,57,OFF,41,Normal
+TWR003,Aurangabad,-91,4G,7.4,16,52,86,OFF,34,Normal
+TWR011,Pune,-66,2G,14.6,81,67,97,Battery,42,Normal
+TWR013,Nashik,-73,3G,55.2,31,57,62,OFF,34,Normal
+TWR020,Aurangabad,-77,3G,125.7,120,75,75,ON,32,Normal
+TWR005,Nashik,-62,3G,63.8,110,74,95,ON,42,Normal
+TWR012,Nashik,-73,5G,228.3,72,60,69,OFF,35,Normal
+TWR020,Mumbai,-78,2G,16.5,68,73,67,,37,Critical
+TWR004,Mumbai,-78,3G,134.4,109,87,48,ON,48,Minor Alarm
+TWR013,Nagpur,-84,3G,60.7,48,91,92,Battery,41,Minor Alarm
+TWR001,Nagpur,-59,3G,237.2,115,91,76,Battery,39,Normal
+TWR002,Pune,-81,2G,151.2,10,73,75,ON,40,Minor Alarm
+TWR007,Mumbai,-84,4G,229.9,116,95,65,ON,30,Normal
+TWR005,Pune,-91,4G,94.7,92,65,82,ON,40,Normal
+TWR005,Mumbai,-55,5G,240.2,91,60,56,Battery,47,Normal
+TWR020,Nagpur,-58,3G,204,56,59,91,Battery,39,Normal
+TWR001,Aurangabad,-59,5G,10,85,60,96,Battery,37,Normal
+TWR004,Nashik,-74,3G,186.8,38,62,65,ON,32,Minor Alarm
+TWR011,Nashik,-79,2G,54,96,44,67,OFF,33,Normal
+TWR002,Nashik,-69,5G,242.3,60,71,69,OFF,47,Normal
+TWR016,Aurangabad,-85,3G,113.9,110,94,47,OFF,30,Normal
+TWR004,Pune,-85,4G,222.2,28,86,49,Battery,32,Normal
+TWR020,Nashik,-68,2G,235.7,29,78,72,ON,31,Normal
+TWR007,Mumbai,-60,5G,181.1,101,74,61,Battery,39,Normal
+TWR004,Pune,-59,5G,138.3,70,49,48,OFF,30,Normal
+TWR010,Aurangabad,-83,5G,26.1,34,50,85,OFF,32,Normal
+TWR004,Nagpur,-65,5G,123.3,92,56,50,Battery,47,Normal
+TWR012,Nashik,-84,4G,112.6,41,68,74,OFF,,Minor Alarm
+TWR019,Pune,-89,3G,23.3,52,91,79,OFF,48,Normal
+TWR002,Nashik,-61,5G,172.4,68,76,60,OFF,39,Normal
+TWR002,Aurangabad,-88,3G,237.4,65,51,55,ON,36,Normal
+TWR014,Pune,-83,5G,249.3,88,49,98,Battery,38,Normal
+TWR003,Pune,-60,5G,100.5,49,94,62,Battery,44,Minor Alarm
+TWR001,Aurangabad,-88,5G,,26,76,82,Battery,33,Minor Alarm
+TWR019,Pune,-61,4G,220.3,120,66,61,OFF,45,Normal
+TWR016,Pune,-78,3G,101.9,87,78,88,Battery,42,Normal
+TWR011,Mumbai,-65,2G,230.4,55,41,66,OFF,39,Normal
+TWR016,Pune,-87,3G,76.5,103,68,94,OFF,38,Normal
+TWR020,Pune,-67,3G,54.4,113,66,92,OFF,46,Minor Alarm
+TWR002,Aurangabad,-91,3G,79.2,72,65,53,Battery,48,Normal
+TWR007,Mumbai,-80,2G,10.2,14,63,90,ON,,Normal
+TWR015,Aurangabad,-55,5G,230.9,95,41,60,OFF,45,Normal
+TWR006,Nashik,-73,4G,42.6,41,87,98,Battery,32,Normal
+TWR013,Pune,,3G,195.4,35,94,59,Battery,37,Normal
+TWR009,Nashik,-95,2G,119.6,24,81,56,Battery,30,Normal
+TWR020,Nagpur,-68,4G,224.1,117,62,74,OFF,36,Normal
+TWR017,Aurangabad,-58,5G,27.4,73,82,98,OFF,47,Normal
+TWR020,Nagpur,-89,4G,121.5,51,57,85,OFF,38,Normal
+TWR010,Mumbai,-62,3G,191.8,15,91,96,Battery,42,Normal
+TWR005,Pune,-77,5G,66.3,61,65,69,Battery,31,Normal
+TWR019,Mumbai,-81,4G,172.2,89,90,75,Battery,41,Normal
+TWR006,Aurangabad,-77,3G,26.2,24,87,61,Battery,47,Normal
+TWR006,Nagpur,-81,2G,90.1,103,95,64,OFF,40,Normal
+TWR019,Nagpur,-88,5G,118.7,118,80,82,Battery,32,Normal
+TWR007,Aurangabad,-71,2G,133.4,60,43,54,ON,36,Normal
+TWR019,Nashik,-75,3G,215.9,31,89,50,OFF,40,Normal
+TWR006,Nagpur,-95,2G,114.1,34,88,94,ON,48,Normal
+TWR016,Pune,-56,3G,109.6,62,65,72,OFF,42,Normal
+TWR018,Mumbai,-95,4G,223.2,104,93,78,ON,30,Normal
+TWR008,Mumbai,-76,4G,34,57,72,82,OFF,35,Normal
+TWR002,Nagpur,-66,4G,182.5,84,73,66,OFF,34,Normal
+TWR016,Nagpur,-85,3G,237.1,111,65,46,,37,Normal
+TWR005,Mumbai,-58,2G,127.1,23,63,90,Battery,31,Normal
+TWR009,Aurangabad,-57,2G,248.7,92,46,86,ON,31,Normal
+TWR014,Nashik,-88,5G,137.7,68,84,54,ON,30,Normal
+TWR004,Aurangabad,-56,4G,,25,66,98,ON,46,Normal
+TWR004,Nagpur,-89,2G,125.4,85,52,94,OFF,46,Critical
+TWR012,Nashik,-85,4G,11.8,71,53,89,,40,Normal
+TWR001,Pune,-59,2G,167.9,27,45,94,Battery,32,Normal
+TWR004,Nagpur,-66,3G,247.2,45,56,74,ON,33,Minor Alarm
+TWR002,Nagpur,-75,4G,107.6,22,46,93,ON,30,Minor Alarm
+TWR006,Nagpur,-67,4G,238.9,42,86,50,OFF,40,Normal
+TWR013,Nashik,-78,5G,209.3,96,94,75,OFF,35,Normal
+TWR002,Mumbai,-69,2G,228,69,91,81,Battery,44,Normal
+TWR013,Nagpur,-87,2G,121.8,70,47,71,OFF,31,Normal
+TWR011,Pune,-74,3G,130.7,96,84,84,ON,43,Normal
+TWR008,Nashik,-71,4G,38.9,113,75,84,ON,30,Normal
+TWR006,Aurangabad,-64,5G,217.6,17,88,76,OFF,37,Normal
+TWR009,Pune,-60,3G,161.5,59,92,60,ON,44,Normal
+TWR019,Nashik,-64,2G,112.9,23,71,92,Battery,30,Normal
+TWR014,Pune,-90,2G,198.4,87,80,64,Battery,47,Normal
+TWR015,Nagpur,-92,4G,204.5,116,69,66,Battery,,Normal
+TWR012,Nashik,-89,2G,190.3,36,40,66,OFF,39,Normal
+TWR012,Pune,,2G,124.1,113,85,92,Battery,43,Normal
+TWR020,Mumbai,-88,3G,232.7,58,53,74,ON,40,Normal
+TWR014,Pune,-67,2G,115.4,83,72,53,OFF,30,Normal
+TWR002,Aurangabad,-58,5G,121.8,73,89,56,Battery,48,Normal
+TWR005,Pune,-57,5G,152.3,49,72,69,OFF,37,Normal
+TWR011,Nagpur,-87,5G,36.3,85,84,92,Battery,39,Minor Alarm
+TWR018,Nagpur,-83,3G,54,99,58,88,OFF,34,Critical
+TWR006,Aurangabad,-88,4G,190.7,79,70,82,Battery,43,Normal
+TWR018,Nagpur,-95,5G,131.6,11,64,54,ON,31,Normal
+TWR006,Nagpur,-86,4G,,96,90,63,ON,47,Normal
+TWR015,Pune,-60,3G,98.4,73,90,95,Battery,39,Normal
+TWR002,Nashik,-69,5G,239.3,95,60,80,ON,30,Normal
+TWR007,Aurangabad,-81,5G,228,98,85,86,OFF,48,Normal
+TWR020,Mumbai,-77,3G,113.3,95,44,56,ON,46,Normal
+TWR002,Nashik,-60,4G,67.5,28,77,61,ON,40,Normal
+TWR005,Pune,-75,3G,150,107,80,84,Battery,39,Normal
+TWR019,Aurangabad,-91,4G,196.4,48,73,59,ON,46,Normal
+TWR017,Mumbai,-61,5G,135.2,19,62,59,ON,40,Normal
+TWR010,Mumbai,-60,5G,206.3,91,40,52,Battery,41,Normal
+TWR020,Aurangabad,-93,3G,171.3,49,64,95,ON,42,Normal
+TWR010,Pune,-63,4G,201.1,65,71,47,OFF,36,Normal
+TWR003,Pune,-61,3G,134.2,88,44,58,Battery,36,Minor Alarm
+TWR014,Pune,-61,3G,207.5,120,87,94,OFF,32,Normal
+TWR005,Pune,-74,5G,11.4,17,43,56,OFF,47,Normal
+TWR008,Nagpur,-71,5G,113.9,59,67,65,ON,42,Normal
+TWR018,Pune,-58,2G,13.3,116,44,67,Battery,33,Normal
+TWR010,Aurangabad,-77,2G,191.8,64,64,70,Battery,30,Normal
+TWR018,Mumbai,-70,3G,199.6,116,74,63,Battery,34,Normal
+TWR012,Pune,-88,3G,12.4,81,78,70,Battery,47,Minor Alarm
+TWR010,Mumbai,-82,4G,104.3,90,94,77,ON,35,Normal
+TWR020,Nagpur,-88,3G,47,110,76,48,Battery,44,Normal
+TWR003,Nagpur,-79,2G,26.4,100,77,76,OFF,41,Normal
+TWR008,Pune,-56,4G,19.3,32,60,76,OFF,40,Normal
+TWR010,Aurangabad,-59,3G,,111,60,72,ON,30,Normal
+TWR008,Nashik,-72,4G,35.3,101,61,75,OFF,44,Normal
+TWR010,Nashik,-84,2G,162.1,18,93,62,ON,47,Normal
+TWR003,Pune,-63,2G,158.6,112,77,82,OFF,48,Normal
+TWR002,Aurangabad,-61,4G,223.7,77,70,86,ON,41,Normal
+TWR019,Nagpur,-66,3G,126.3,19,65,68,Battery,30,Normal
+TWR020,Mumbai,-67,3G,41.5,80,76,87,ON,45,Minor Alarm
+TWR002,Mumbai,-81,5G,17.6,55,54,47,Battery,36,Normal
+TWR012,Nashik,-66,5G,220.6,13,81,65,ON,46,Normal
+TWR009,Nagpur,-71,3G,164.1,54,77,86,ON,46,Normal
+TWR008,Aurangabad,-73,5G,204.7,52,71,95,OFF,30,Normal
+TWR005,Nashik,-81,3G,21.1,90,57,58,ON,35,Normal
+TWR020,Pune,-69,3G,,100,47,75,Battery,45,Normal
+TWR019,Mumbai,-94,5G,62.4,24,76,82,ON,34,Normal
+TWR002,Aurangabad,-92,3G,43.3,31,73,70,Battery,48,Normal
+TWR010,Pune,-67,3G,152.4,68,95,75,ON,37,Minor Alarm
+TWR020,Mumbai,-56,3G,165.6,41,50,91,Battery,40,Minor Alarm
+TWR020,Aurangabad,-81,2G,95.8,24,46,46,ON,46,Minor Alarm
+TWR017,Nashik,-57,3G,25.9,68,79,83,ON,47,Normal
+TWR004,Pune,-87,5G,225.7,77,92,45,Battery,43,Normal
+TWR012,Pune,-81,5G,234.7,69,90,94,OFF,41,Normal
+TWR019,Pune,-87,5G,65.1,106,54,50,OFF,47,Normal
+TWR007,Pune,-59,2G,131.6,74,40,69,Battery,36,Normal
+TWR011,Nashik,-89,4G,40.4,91,77,61,OFF,47,Normal
+TWR012,Aurangabad,-70,4G,189.2,60,75,95,Battery,,Normal
+TWR018,Aurangabad,-79,5G,,81,62,94,Battery,42,Normal
+TWR004,Mumbai,-85,5G,26.9,73,65,95,OFF,47,Normal
+TWR002,Mumbai,-55,5G,3.3,19,92,54,,43,Normal
+TWR009,Mumbai,-90,4G,153,100,64,70,Battery,46,Normal
+TWR020,Pune,-55,3G,124.6,9,52,87,Battery,39,Normal
+TWR020,Aurangabad,-56,3G,44,12,63,60,Battery,30,Critical
+TWR003,Nagpur,-73,5G,168.1,59,77,57,Battery,30,Normal
+TWR003,Pune,-60,4G,228.9,52,62,97,OFF,37,Normal
+TWR007,Nashik,-59,5G,3.2,30,66,77,ON,47,Normal
+TWR010,Nagpur,-63,2G,239.3,120,74,97,Battery,38,Normal
+TWR013,Aurangabad,-80,5G,189.9,107,69,88,OFF,48,Minor Alarm
+TWR016,Pune,-91,4G,96.9,108,54,88,Battery,37,Minor Alarm
+TWR014,Nagpur,-79,2G,63.6,19,65,88,Battery,40,Normal
+TWR006,Nashik,-73,4G,56.2,81,57,56,Battery,36,Normal
+TWR007,Mumbai,-79,3G,53.3,33,93,60,Battery,41,Normal
+TWR004,Pune,-64,2G,154.2,105,94,79,ON,45,Normal
+TWR011,Nashik,-64,4G,47.4,105,72,62,OFF,37,Normal
+TWR005,Pune,-65,5G,235,12,72,67,OFF,35,Normal
+TWR004,Aurangabad,-75,5G,172.9,9,83,58,OFF,48,Normal
+TWR012,Aurangabad,-84,4G,138,38,57,75,Battery,40,Normal
+TWR016,Nashik,-69,3G,175.8,55,63,70,OFF,44,Normal
+TWR005,Aurangabad,-89,3G,180.8,110,55,80,OFF,42,Normal
+TWR005,Nashik,-84,2G,106.5,25,94,85,Battery,47,Normal
+TWR016,Nagpur,-60,4G,214.9,14,65,51,Battery,35,Normal
+TWR009,Nashik,-67,2G,186.7,41,63,68,Battery,47,Minor Alarm
+TWR009,Nagpur,-69,2G,32.1,119,83,83,ON,48,Normal
+TWR018,Mumbai,-73,4G,82.6,73,71,94,Battery,,Minor Alarm
+TWR013,Aurangabad,-66,4G,158.7,26,95,55,Battery,40,Normal
+TWR020,Aurangabad,-91,5G,21.6,51,54,65,OFF,39,Normal
+TWR020,Nashik,-67,4G,195.7,54,87,82,Battery,44,Normal
+TWR006,Pune,-80,3G,166.2,103,84,92,ON,36,Normal
+TWR004,Pune,-65,2G,138,11,89,70,Battery,32,Normal
+TWR020,Mumbai,-71,2G,78.7,39,87,63,OFF,34,Normal
+TWR006,Pune,-73,2G,215.4,49,95,75,OFF,47,Minor Alarm
+TWR018,Nashik,-61,3G,45.9,84,69,85,Battery,48,Normal
+TWR018,Nagpur,-65,4G,135.8,111,45,73,OFF,41,Normal
+TWR005,Nagpur,-95,2G,131.8,105,94,53,OFF,,Normal
+TWR001,Nashik,-76,5G,4.3,63,91,63,Battery,37,Normal
+TWR018,Nagpur,-69,3G,220.8,63,65,60,ON,42,Minor Alarm
+TWR008,Nagpur,-68,2G,157.1,74,88,96,Battery,38,Normal
+TWR018,Nagpur,-83,5G,213.7,31,48,63,ON,44,Normal
+TWR009,Aurangabad,-83,5G,81.5,27,43,79,ON,35,Critical
+TWR010,Nagpur,-67,3G,182.3,37,45,54,ON,45,Normal
+TWR014,Nagpur,-72,5G,117,109,42,66,ON,34,Normal
+TWR013,Pune,,5G,49.7,115,56,97,OFF,30,Normal
+TWR008,Nashik,-80,5G,184.9,12,52,74,Battery,33,Normal
+TWR007,Nashik,-76,5G,234.2,28,80,91,ON,47,Normal
+TWR009,Nashik,-83,4G,91.4,14,95,87,ON,33,Normal
+TWR014,Nagpur,-85,2G,199,82,47,70,ON,30,Critical
+TWR019,Nashik,-72,3G,193.2,39,50,76,ON,40,Minor Alarm
+TWR002,Pune,-86,4G,175.9,109,46,53,OFF,37,Normal
+TWR018,Nagpur,-83,5G,7.3,56,62,91,ON,38,Minor Alarm
+TWR016,Nashik,,4G,174.9,32,76,56,Battery,41,Normal
+TWR015,Nagpur,-91,3G,133.7,65,58,97,OFF,47,Normal
+TWR001,Aurangabad,-84,5G,221,87,94,68,Battery,37,Normal
+TWR003,Aurangabad,-83,5G,132,71,89,80,ON,39,Normal
+TWR011,Pune,-62,2G,165.4,13,93,53,ON,31,Normal
+TWR016,Mumbai,-93,2G,143.6,115,64,87,OFF,46,Normal
+TWR019,Nagpur,,2G,56.7,99,44,45,,45,Minor Alarm
+TWR003,Nashik,-72,2G,140.4,61,92,68,Battery,31,Minor Alarm
+TWR009,Aurangabad,-91,2G,208.9,17,53,78,ON,33,Normal
+TWR018,Nashik,-83,3G,132.5,39,76,85,ON,47,Normal
+TWR014,Pune,-66,4G,176.2,62,46,55,ON,47,Normal
+TWR011,Mumbai,-73,5G,225.8,78,60,68,OFF,43,Minor Alarm
+TWR011,Aurangabad,-59,3G,137.3,56,89,80,Battery,38,Normal
+TWR015,Nashik,-95,5G,182.1,44,78,46,Battery,34,Critical
+TWR010,Pune,-81,4G,55.3,48,41,94,Battery,38,Minor Alarm
+TWR017,Aurangabad,-89,3G,11.4,53,49,53,OFF,41,Minor Alarm
+TWR008,Mumbai,-76,4G,24.8,59,76,58,Battery,32,Normal
+TWR016,Mumbai,-59,5G,205.2,20,78,86,OFF,31,Normal
+TWR019,Nashik,-92,2G,230.6,50,62,97,OFF,43,Minor Alarm
+TWR004,Mumbai,-55,2G,194.8,56,43,64,Battery,31,Normal
+TWR019,Mumbai,-63,4G,175,27,43,88,Battery,42,Critical
+TWR020,Aurangabad,-81,2G,109.1,108,65,54,ON,40,Normal
+TWR019,Pune,-79,5G,23.1,72,67,94,Battery,34,Normal
+TWR016,Aurangabad,-64,3G,100,81,52,80,Battery,46,Normal
+TWR003,Nagpur,-75,5G,171.8,81,45,52,Battery,43,Normal
+TWR012,Mumbai,-73,4G,149.3,11,89,64,ON,41,Normal
+TWR015,Aurangabad,-67,3G,13.1,112,54,57,Battery,41,Normal
+TWR003,Pune,-80,2G,237.3,26,95,98,OFF,30,Normal
+TWR004,Nagpur,,5G,7.6,34,87,79,ON,36,Normal
+TWR009,Aurangabad,-56,5G,183,26,84,89,Battery,30,Normal
+TWR017,Pune,-85,4G,16.9,33,90,89,Battery,38,Normal
+TWR001,Pune,-78,5G,166.4,92,63,51,ON,39,Minor Alarm
+TWR013,Mumbai,-63,5G,244.2,20,60,76,Battery,47,Normal
+TWR007,Aurangabad,-60,5G,231.7,10,42,60,Battery,39,Normal
+TWR013,Mumbai,-73,2G,171.7,53,80,64,,46,Normal
+TWR002,Nagpur,-94,5G,236.1,43,54,54,OFF,42,Normal
+TWR003,Nashik,-69,3G,61.6,27,67,64,Battery,40,Normal
+TWR005,Mumbai,-58,3G,136.3,110,52,53,OFF,46,Minor Alarm
+TWR014,Mumbai,-75,3G,18.8,76,86,52,ON,40,Minor Alarm
+TWR005,Pune,-69,4G,240.4,46,68,92,Battery,38,Normal
+TWR007,Pune,-84,3G,8.5,86,79,62,Battery,48,Normal
+TWR020,Mumbai,-94,3G,,96,89,75,ON,46,Minor Alarm
+TWR016,Nagpur,-71,3G,123.9,25,50,57,ON,31,Normal
+TWR001,Nagpur,-81,5G,186.1,33,88,58,ON,,Minor Alarm
+TWR015,Aurangabad,-75,5G,217,39,67,70,ON,42,Normal
+TWR013,Aurangabad,-62,2G,29.1,66,92,47,ON,46,Normal
+TWR002,Aurangabad,-62,5G,191.8,14,52,63,OFF,42,Minor Alarm
+TWR010,Nashik,-68,3G,75,14,84,78,ON,44,Minor Alarm
+TWR015,Pune,-84,2G,195.1,97,74,53,OFF,43,Normal
+TWR001,Mumbai,-58,5G,224.4,33,69,50,OFF,40,Normal
+TWR006,Pune,-88,2G,177.1,89,63,50,Battery,42,Normal
+TWR017,Aurangabad,-71,3G,138.5,13,89,55,OFF,48,Minor Alarm
+TWR005,Mumbai,-84,3G,192.8,14,66,64,OFF,44,Normal
+TWR006,Pune,-83,3G,2.9,105,56,45,OFF,45,Minor Alarm
+TWR018,Pune,-80,5G,55.8,92,70,74,OFF,44,Normal
+TWR020,Pune,-60,3G,71,88,75,97,ON,31,Normal
+TWR002,Nagpur,-86,2G,213.7,93,76,98,Battery,39,Normal
+TWR003,Pune,-69,2G,248.4,28,83,63,Battery,48,Normal
+TWR006,Nashik,-93,4G,25.1,46,60,68,OFF,32,Normal
+TWR018,Pune,-65,4G,35.4,96,95,62,OFF,46,Normal
+TWR007,Mumbai,-89,2G,143.7,88,73,50,OFF,39,Normal
+TWR011,Nagpur,-87,4G,154.3,71,73,91,Battery,45,Normal
+TWR006,Aurangabad,-77,3G,244.9,8,47,46,OFF,33,Normal
+TWR007,Aurangabad,-69,5G,13.3,52,75,96,Battery,36,Normal
+TWR007,Nagpur,-91,4G,78.3,72,75,65,ON,33,Normal
+TWR011,Nashik,-84,2G,50.1,114,61,88,,,Normal
+TWR005,Nashik,-55,3G,116.2,118,74,66,OFF,43,Minor Alarm
+TWR002,Aurangabad,-59,4G,181.8,48,75,79,ON,36,Normal
+TWR011,Nagpur,-86,2G,71.6,11,61,69,Battery,47,Minor Alarm
+TWR019,Aurangabad,-84,5G,149.6,118,90,93,OFF,40,Normal
+TWR009,Nashik,-64,2G,219.5,55,68,98,OFF,36,Normal
+TWR006,Pune,-93,4G,194.9,19,68,77,ON,45,Minor Alarm
+TWR005,Mumbai,-65,4G,183.6,75,59,94,OFF,34,Normal
+TWR004,Aurangabad,-82,3G,181.7,66,64,90,,33,Normal
+TWR002,Aurangabad,-74,2G,117.8,13,46,78,Battery,39,Normal
+TWR010,Mumbai,-83,4G,49.8,43,74,65,OFF,33,Normal
+TWR006,Nagpur,-95,2G,239.7,79,72,51,ON,47,Normal
+TWR011,Nagpur,-77,3G,144.4,29,44,64,Battery,40,Normal
+TWR002,Mumbai,-65,2G,226,14,46,69,ON,32,Normal
+TWR006,Aurangabad,-56,5G,90.2,50,92,57,Battery,47,Normal
+TWR015,Aurangabad,-90,3G,203.6,97,69,51,OFF,39,Normal
+TWR015,Nashik,-81,3G,37.6,86,56,68,OFF,,Normal
+TWR011,Nagpur,-64,5G,9.5,68,47,67,OFF,,Minor Alarm
+TWR010,Nagpur,-63,3G,27.5,112,85,95,ON,40,Normal
+TWR003,Nagpur,-70,5G,148.5,38,79,60,Battery,35,Critical
+TWR013,Pune,-82,4G,203.9,83,67,95,OFF,48,Normal
+TWR018,Mumbai,-91,3G,185.4,99,76,98,OFF,33,Normal
+TWR015,Nagpur,-67,2G,45.7,59,44,83,ON,42,Normal
+TWR002,Pune,-87,3G,222,104,80,96,ON,34,Normal
+TWR015,Aurangabad,-71,4G,154.7,65,52,58,Battery,,Normal
+TWR010,Nashik,-90,4G,146.5,86,72,70,ON,39,Normal
+TWR018,Pune,-60,2G,205.5,53,47,63,ON,,Normal
+TWR019,Nashik,-71,4G,102.7,63,74,58,Battery,35,Normal
+TWR007,Aurangabad,-72,5G,210.3,27,58,87,ON,34,Normal
+TWR001,Mumbai,-68,5G,243.8,25,45,53,Battery,43,Minor Alarm
+TWR020,Nashik,-66,3G,128.3,78,92,73,OFF,41,Normal
+TWR014,Aurangabad,-59,2G,125.5,101,55,90,Battery,38,Normal
+TWR018,Aurangabad,-93,4G,244.6,80,70,90,OFF,33,Normal
+TWR003,Mumbai,-66,4G,130.2,74,79,50,ON,45,Normal
+TWR003,Aurangabad,-56,4G,15.1,51,74,94,ON,45,Normal
+TWR016,Aurangabad,-69,4G,89.5,110,58,63,ON,31,Normal
+TWR020,Nagpur,-92,4G,158.1,82,50,81,ON,39,Minor Alarm
+TWR020,Pune,-64,4G,22.5,72,44,95,OFF,38,Normal
+TWR009,Nagpur,-95,4G,185.9,85,51,82,Battery,34,Normal
+TWR012,Mumbai,-80,4G,122.3,110,73,47,OFF,32,Critical
+TWR020,Mumbai,,5G,193.1,38,82,73,Battery,35,Normal
+TWR012,Pune,-88,4G,15,67,65,75,OFF,45,Normal
+TWR018,Mumbai,-71,5G,119.7,26,73,72,ON,39,Minor Alarm
+TWR015,Nashik,-62,4G,171.4,13,46,79,Battery,41,Critical
+TWR014,Aurangabad,-74,4G,69,110,46,61,,48,Normal
+TWR008,Aurangabad,-62,3G,85.7,96,51,65,Battery,30,Normal
+TWR003,Pune,-89,5G,132.3,95,68,67,ON,39,Normal
+TWR002,Pune,-92,2G,234.7,92,93,58,Battery,33,Normal
+TWR004,Pune,-71,3G,164.8,90,76,96,ON,33,Normal
+TWR009,Nagpur,-91,5G,160.4,43,89,72,Battery,40,Normal
+TWR003,Nagpur,,2G,98.4,15,56,97,OFF,35,Normal
+TWR016,Mumbai,-84,5G,162.1,21,49,79,OFF,36,Normal
+TWR004,Nashik,-89,4G,10.6,17,76,91,OFF,44,Normal
+TWR016,Mumbai,-93,2G,166.8,42,49,89,OFF,42,Normal
+TWR017,Nashik,-68,5G,102.2,101,89,96,ON,47,Normal
+TWR013,Nashik,-59,2G,134.8,53,61,88,OFF,42,Normal
+TWR003,Nagpur,-90,4G,210.6,105,89,63,Battery,36,Normal
+TWR002,Nashik,-76,3G,174.6,21,80,89,OFF,45,Normal
+TWR015,Mumbai,-93,3G,49.9,100,77,60,OFF,42,Normal
+TWR018,Nagpur,-61,5G,241.3,111,68,46,ON,40,Normal
+TWR002,Nashik,-82,2G,202.2,93,73,74,Battery,47,Normal
+TWR019,Mumbai,-93,2G,184.4,70,81,46,OFF,31,Normal
+TWR005,Pune,-55,3G,14.4,47,92,95,ON,44,Normal
+TWR019,Pune,-88,2G,125.3,110,79,59,ON,36,Normal
+TWR013,Nagpur,-59,2G,137.4,49,93,95,ON,31,Normal
+TWR011,Pune,-78,2G,37,61,50,89,OFF,47,Normal
+TWR008,Aurangabad,-87,2G,26.8,116,80,84,OFF,35,Normal
+TWR016,Pune,-95,2G,46.5,19,85,86,Battery,39,Normal
+TWR016,Mumbai,-86,3G,160.7,74,68,71,ON,35,Normal
+TWR002,Aurangabad,-64,3G,153.8,19,80,97,OFF,41,Normal
+TWR018,Mumbai,-88,3G,246.7,20,79,68,Battery,46,Normal
+TWR007,Nagpur,-83,2G,29.9,27,83,75,OFF,35,Normal
+TWR002,Pune,-77,4G,54,40,61,84,OFF,31,Normal
+TWR002,Aurangabad,-85,3G,196.8,70,72,52,ON,37,Normal
+TWR019,Aurangabad,,4G,51.3,94,60,59,ON,40,Normal
+TWR008,Nashik,-71,3G,223.1,17,70,82,OFF,31,Minor Alarm
+TWR005,Mumbai,-84,5G,98.1,25,69,91,ON,41,Critical
+TWR007,Nagpur,-93,3G,173.7,15,57,53,ON,44,Normal
+TWR006,Nagpur,-77,3G,151.7,109,90,85,Battery,35,Normal
+TWR018,Mumbai,-69,2G,214.5,70,95,58,Battery,45,Minor Alarm
+TWR009,Pune,-80,5G,63.5,63,77,59,,34,Minor Alarm
+TWR001,Nashik,-93,2G,247.8,101,89,77,ON,43,Normal
+TWR016,Pune,-64,5G,61.6,79,88,45,Battery,43,Minor Alarm
+TWR005,Nagpur,-80,4G,162.6,19,41,75,Battery,39,Normal
+TWR015,Aurangabad,-66,2G,117,25,95,90,OFF,35,Normal
+TWR012,Nashik,-55,2G,19.5,96,61,78,ON,39,Normal
+TWR009,Aurangabad,-90,3G,155.9,50,87,48,Battery,41,Minor Alarm
+TWR004,Nashik,-66,4G,155.5,54,63,56,Battery,47,Normal
+TWR018,Mumbai,-74,3G,61.2,22,81,75,Battery,48,Minor Alarm
+TWR007,Mumbai,-73,4G,224.7,72,83,72,OFF,31,Normal
+TWR012,Nashik,-63,5G,132.6,23,70,90,Battery,47,Minor Alarm
+TWR015,Aurangabad,-91,4G,48.7,66,45,50,OFF,35,Normal
+TWR003,Pune,,3G,29.8,26,71,54,ON,46,Critical
+TWR001,Nagpur,-61,5G,233.1,68,62,71,OFF,30,Normal
+TWR003,Pune,-62,3G,161.9,60,77,66,Battery,40,Normal
+TWR017,Aurangabad,-66,5G,77.4,24,90,64,,38,Normal
+TWR012,Nagpur,-86,2G,89.6,66,50,84,ON,47,Normal
+TWR006,Mumbai,-80,3G,31,48,76,53,OFF,38,Normal
+TWR007,Aurangabad,-75,2G,244.5,26,63,73,Battery,35,Normal
+TWR004,Pune,-64,5G,,66,60,54,ON,47,Critical
+TWR011,Nagpur,-77,5G,242.5,104,76,87,ON,48,Normal
+TWR015,Nagpur,-65,2G,225.2,25,83,80,ON,39,Normal
+TWR020,Mumbai,-73,5G,24.9,15,78,86,,48,Normal
+TWR009,Mumbai,-90,2G,135.5,65,83,87,ON,46,Normal
+TWR016,Nagpur,-72,2G,100.6,99,94,72,OFF,42,Normal
+TWR010,Nagpur,-76,4G,244.4,119,75,50,ON,44,Normal
+TWR014,Nashik,-85,4G,,62,86,71,ON,48,Normal
+TWR005,Mumbai,-65,4G,247.1,75,61,49,Battery,42,Normal
+TWR014,Nagpur,-84,5G,139.8,98,76,93,ON,36,Normal
+TWR013,Nagpur,-93,5G,206.1,46,93,82,OFF,45,Normal
+TWR015,Mumbai,-95,2G,40.2,46,80,98,Battery,45,Normal
+TWR010,Nashik,-64,3G,226.9,90,55,46,ON,38,Normal
+TWR003,Aurangabad,-58,4G,121.2,63,95,61,Battery,45,Critical
+TWR004,Nagpur,-79,2G,42.4,15,49,65,OFF,34,Normal
+TWR002,Nagpur,-69,4G,159.8,53,43,63,OFF,46,Normal
+TWR003,Aurangabad,-55,3G,47.4,20,78,93,ON,47,Normal
+TWR011,Nagpur,-72,4G,25.8,82,62,97,ON,30,Normal
+TWR010,Nagpur,-69,5G,86.4,28,46,58,ON,46,Normal
+TWR007,Aurangabad,-69,2G,116.2,17,47,97,ON,30,Normal
+TWR010,Nagpur,-67,3G,222.7,84,73,93,OFF,35,Normal
+TWR001,Pune,-87,3G,214.5,26,84,59,OFF,34,Normal
+TWR003,Nashik,-91,2G,6.7,69,88,72,ON,36,Normal
+TWR017,Aurangabad,-65,2G,31.5,40,42,49,OFF,30,Normal
+TWR004,Aurangabad,-58,3G,225.5,31,82,67,ON,32,Normal
+TWR009,Aurangabad,-73,4G,41.8,72,89,91,Battery,37,Normal
+TWR003,Pune,-62,2G,55.8,32,58,55,Battery,30,Critical
+TWR004,Mumbai,-72,5G,175.1,31,68,88,ON,35,Minor Alarm
+TWR013,Nashik,-63,3G,58.4,22,88,65,ON,44,Normal
+TWR005,Nashik,-77,4G,140.2,13,45,65,OFF,33,Normal
+TWR015,Aurangabad,-67,4G,58,60,58,72,ON,32,Minor Alarm
+TWR016,Nagpur,-95,3G,249.7,70,83,51,OFF,44,Normal
+TWR003,Pune,-70,3G,101.4,83,46,92,ON,32,Normal
+TWR007,Nagpur,-57,3G,211.3,59,47,59,OFF,45,Normal
+TWR019,Aurangabad,-70,4G,90.3,93,78,70,OFF,46,Normal
+TWR015,Pune,-79,2G,123.4,37,80,53,ON,33,Normal
+TWR003,Nashik,-84,2G,96.9,94,60,54,OFF,33,Normal
+TWR017,Nashik,-83,5G,74.8,71,71,77,OFF,47,Normal
+TWR018,Aurangabad,-93,2G,247.7,120,47,69,OFF,40,Minor Alarm
+TWR015,Nashik,-93,2G,45.9,92,95,94,OFF,35,Normal
+TWR005,Nagpur,-64,5G,191.5,80,83,76,Battery,47,Normal
+TWR019,Nashik,-60,5G,213.9,72,43,70,OFF,45,Normal
+TWR013,Aurangabad,-77,4G,81.5,11,77,47,ON,41,Normal
+TWR019,Pune,-71,4G,26.1,52,62,71,OFF,31,Normal
+TWR008,Mumbai,-58,4G,,96,44,64,ON,40,Normal
+TWR018,Nagpur,-66,2G,165.1,62,76,77,OFF,38,Normal
+TWR016,Aurangabad,-75,2G,95.7,57,60,81,ON,45,Normal
+TWR007,Nagpur,-63,5G,203.2,93,61,55,,39,Normal
+TWR014,Mumbai,-55,5G,212.1,108,44,98,Battery,36,Normal
+TWR002,Nagpur,-81,5G,156.9,19,85,82,ON,48,Normal
+TWR003,Aurangabad,-68,5G,54,109,44,86,OFF,46,Minor Alarm
+TWR014,Aurangabad,-83,4G,104.7,40,79,77,OFF,47,Normal
+TWR001,Aurangabad,,3G,125.8,92,92,92,OFF,38,Minor Alarm
+TWR018,Aurangabad,-59,5G,,15,73,57,OFF,44,Normal
+TWR005,Nagpur,-69,5G,81,114,44,85,ON,43,Normal
+TWR010,Mumbai,,4G,60.6,38,47,54,ON,30,Normal
+TWR010,Nashik,-60,5G,247.8,62,81,47,ON,35,Normal
+TWR001,Nagpur,-60,4G,45.6,117,42,91,OFF,30,Normal
+TWR003,Nagpur,-91,4G,225.3,60,63,87,Battery,32,Normal
+TWR005,Mumbai,-59,2G,184.2,23,73,87,Battery,46,Normal
+TWR003,Mumbai,-75,2G,83.7,82,87,69,Battery,37,Minor Alarm
+TWR007,Mumbai,-84,2G,55.1,43,68,71,OFF,48,Normal
+TWR018,Nagpur,-75,2G,137.3,68,83,60,OFF,34,Normal
+TWR012,Nagpur,-57,2G,10.6,102,82,96,ON,37,Normal
+TWR013,Nagpur,-88,4G,134.7,38,94,73,OFF,30,Minor Alarm
+TWR013,Nagpur,-90,4G,234.2,104,55,64,,35,Minor Alarm
+TWR011,Nashik,-78,2G,216.9,113,89,76,OFF,43,Minor Alarm
+TWR011,Nashik,-85,2G,175.2,72,44,67,OFF,47,Normal
+TWR015,Pune,-84,2G,158.3,109,81,53,ON,42,Normal
+TWR010,Nagpur,-88,2G,41.1,74,85,94,Battery,34,Minor Alarm
+TWR014,Nagpur,-65,5G,218.6,25,56,56,Battery,48,Minor Alarm
+TWR010,Mumbai,-69,2G,93.2,58,64,98,Battery,37,Normal
+TWR001,Aurangabad,-90,3G,243.6,33,56,89,ON,31,Normal
+TWR014,Aurangabad,-86,4G,24.1,55,50,81,ON,30,Normal
+TWR014,Nashik,-88,5G,57.7,34,52,97,OFF,39,Normal
+TWR013,Mumbai,-82,5G,150.8,113,58,91,Battery,36,Normal
+TWR014,Mumbai,,2G,244.1,38,79,73,ON,41,Normal
+TWR015,Pune,-65,2G,35,49,84,70,Battery,36,Normal
+TWR014,Aurangabad,-91,4G,25.6,15,43,66,ON,45,Minor Alarm
+TWR020,Aurangabad,-95,2G,64.9,87,64,64,OFF,41,Normal
+TWR018,Pune,-79,3G,44.1,71,61,74,ON,32,Normal
+TWR017,Nashik,-79,3G,31,13,48,76,,41,Minor Alarm
+TWR010,Nagpur,-62,4G,79.6,29,60,92,OFF,34,Normal
+TWR015,Pune,-86,3G,15.5,31,42,75,OFF,35,Normal
+TWR014,Pune,-93,5G,111.5,98,75,76,,45,Normal
+TWR005,Pune,-90,4G,52.5,44,51,98,ON,46,Minor Alarm
+TWR019,Aurangabad,-58,3G,249.5,8,73,94,Battery,35,Normal
+TWR003,Mumbai,-89,5G,222.1,11,58,88,Battery,33,Normal
+TWR019,Pune,-86,4G,9.2,66,93,90,Battery,45,Normal
+TWR009,Aurangabad,-74,2G,242.5,91,79,73,OFF,48,Normal
+TWR002,Nagpur,-92,4G,186.5,78,78,69,ON,42,Normal
+TWR008,Nashik,-94,2G,213.4,28,64,94,OFF,39,Normal
+TWR005,Pune,-64,4G,200.7,102,91,64,Battery,34,Normal
+TWR004,Nagpur,-64,3G,112.5,57,70,62,Battery,43,Normal
+TWR014,Nagpur,-68,3G,158.4,19,42,77,OFF,44,Normal
+TWR005,Nashik,-77,2G,118.1,18,91,75,OFF,34,Critical
+TWR010,Mumbai,-77,5G,143,78,44,47,Battery,33,Normal
+TWR014,Pune,-59,5G,203.6,53,56,82,ON,46,Normal
+TWR015,Mumbai,-70,3G,13.2,61,85,64,OFF,48,Normal
+TWR015,Aurangabad,-74,4G,241.7,119,91,56,ON,35,Normal
+TWR020,Nagpur,-68,2G,134.5,8,65,52,ON,35,Normal
+TWR015,Nashik,-76,5G,155.4,86,63,89,Battery,42,Minor Alarm
+TWR003,Mumbai,-95,3G,49.3,112,41,89,ON,30,Normal
+TWR005,Mumbai,-55,5G,214.8,76,52,50,OFF,44,Normal
+TWR014,Pune,-85,2G,225.8,102,84,73,OFF,45,Normal
+TWR015,Aurangabad,-83,3G,75.1,114,93,70,ON,40,Normal
+TWR014,Nashik,-58,5G,149.8,78,58,47,OFF,42,Normal
+TWR019,Aurangabad,-81,5G,179.1,75,41,72,Battery,40,Normal
+TWR009,Nashik,-88,5G,124.7,90,62,73,Battery,43,Normal
+TWR010,Mumbai,-73,5G,110.7,72,54,82,Battery,40,Minor Alarm
+TWR015,Mumbai,-71,4G,240,114,83,86,Battery,,Normal
+TWR006,Aurangabad,-77,3G,173.3,19,82,75,ON,35,Normal
+TWR020,Nashik,-69,2G,235.9,71,59,60,ON,47,Normal
+TWR001,Nagpur,-73,4G,169.9,30,92,77,ON,32,Normal
+TWR004,Aurangabad,-88,3G,141.4,70,56,66,OFF,31,Normal
+TWR018,Nagpur,-63,3G,151.9,21,85,48,OFF,44,Critical
+TWR004,Pune,-60,2G,12.4,21,50,85,ON,36,Minor Alarm
+TWR006,Nagpur,-63,5G,125.6,119,46,54,Battery,41,Normal
+TWR005,Pune,-67,3G,242.5,106,89,45,,45,Normal
+TWR017,Mumbai,-78,2G,94.4,104,66,68,Battery,37,Normal
+TWR017,Nashik,-87,3G,200.8,60,66,74,Battery,41,Minor Alarm
+TWR015,Mumbai,-62,2G,236,18,61,65,OFF,35,Normal
+TWR013,Pune,-59,3G,16.3,88,85,96,Battery,46,Critical
+TWR014,Nashik,-75,4G,227.5,9,92,62,Battery,34,Normal
+TWR015,Mumbai,-73,5G,222.1,108,81,70,ON,39,Normal
+TWR018,Nagpur,-87,5G,131.1,77,58,58,ON,46,Normal
+TWR017,Nagpur,,3G,8.9,109,74,82,OFF,37,Minor Alarm
+TWR010,Nashik,-92,2G,,41,80,77,OFF,33,Normal
+TWR004,Nashik,-59,4G,184.7,66,61,60,Battery,48,Normal
+TWR018,Aurangabad,-73,3G,76.2,93,90,97,Battery,48,Normal
+TWR013,Aurangabad,-89,3G,83.3,82,52,97,OFF,44,Normal
+TWR014,Nashik,-90,2G,17.4,24,70,58,OFF,32,Normal
+TWR017,Nashik,-79,5G,146.9,89,67,73,Battery,45,Normal
+TWR014,Mumbai,-63,3G,33.5,99,69,53,Battery,46,Minor Alarm
+TWR004,Mumbai,-65,5G,10.1,28,75,68,ON,43,Normal
+TWR012,Aurangabad,-93,4G,131.6,23,63,64,OFF,39,Normal
+TWR001,Mumbai,-58,3G,106.6,47,58,58,ON,45,Normal
+TWR018,Nagpur,-93,2G,105.6,81,59,81,OFF,,Normal
+TWR016,Aurangabad,-87,3G,127.2,66,88,73,Battery,44,Normal
+TWR011,Pune,-71,5G,59.7,58,61,79,ON,44,Normal
+TWR003,Mumbai,-59,2G,158.3,106,85,64,Battery,33,Normal
+TWR003,Mumbai,-59,2G,131.4,104,70,77,ON,33,Normal
+TWR018,Mumbai,-78,2G,197.1,39,93,90,Battery,44,Normal
+TWR018,Aurangabad,-70,4G,148,70,95,46,OFF,43,Normal
+TWR001,Aurangabad,-71,4G,65.8,22,46,79,ON,39,Normal
+TWR009,Pune,-76,3G,238.1,94,50,48,Battery,40,Normal
+TWR002,Nagpur,-89,5G,81.4,60,60,61,OFF,33,Normal
+TWR008,Aurangabad,-64,3G,128.1,72,64,52,OFF,31,Normal
+TWR018,Nashik,-65,2G,9.2,89,54,46,,47,Critical
+TWR004,Mumbai,-76,3G,142.9,65,45,85,Battery,36,Normal
+TWR005,Nagpur,-80,3G,135.3,62,75,73,ON,30,Minor Alarm
+TWR020,Nagpur,-95,3G,16.9,69,57,83,OFF,42,Critical
+TWR007,Aurangabad,-93,4G,42,76,76,49,OFF,32,Normal
+TWR004,Mumbai,-68,4G,54.3,72,91,65,Battery,40,Normal
+TWR015,Nagpur,-75,3G,86.7,66,78,66,ON,34,Normal
+TWR001,Aurangabad,-95,5G,225.6,94,51,71,Battery,45,Normal
+TWR018,Pune,-61,2G,9.7,114,92,87,OFF,33,Normal
+TWR013,Aurangabad,-71,4G,45.9,106,91,89,ON,33,Normal
+TWR007,Nashik,-81,2G,186.3,105,57,88,Battery,41,Normal
+TWR020,Nagpur,-81,3G,245.1,54,42,62,OFF,36,Normal
+TWR013,Pune,-59,4G,126.1,29,75,57,Battery,48,Normal
+TWR020,Aurangabad,-91,3G,147.9,103,44,53,OFF,48,Minor Alarm
+TWR017,Nagpur,-94,3G,248,96,83,79,Battery,38,Normal
+TWR015,Pune,-92,5G,213.8,49,67,71,OFF,33,Normal
+TWR015,Nashik,-62,4G,190.2,100,54,48,OFF,43,Normal
+TWR011,Pune,-83,5G,85,120,76,96,ON,37,Critical
+TWR014,Pune,-83,3G,42.8,47,44,85,Battery,33,Normal
+TWR014,Pune,-79,4G,63.3,68,55,66,ON,40,Normal
+TWR008,Pune,-89,5G,157.1,82,47,50,ON,31,Normal
+TWR003,Mumbai,-67,2G,15.6,86,80,72,ON,33,Normal
+TWR018,Pune,-71,4G,,87,88,71,ON,30,Normal
+TWR015,Nashik,-74,2G,163.4,94,90,46,OFF,46,Normal
+TWR007,Pune,-95,2G,,16,77,95,ON,48,Normal
+TWR017,Nagpur,-69,4G,121.4,87,68,56,ON,34,Normal
+TWR002,Mumbai,,4G,110.1,91,88,67,OFF,48,Minor Alarm
+TWR005,Mumbai,-76,5G,151.6,45,63,45,Battery,,Normal
+TWR005,Pune,-63,3G,,79,94,48,OFF,41,Normal
+TWR007,Mumbai,-74,2G,49,68,84,89,OFF,40,Minor Alarm
+TWR019,Nagpur,-69,4G,83.5,21,69,95,ON,45,Normal
+TWR001,Mumbai,-66,3G,156.7,38,70,92,OFF,,Normal
+TWR006,Pune,-95,4G,20.3,11,75,52,ON,39,Normal
+TWR019,Nagpur,-94,2G,51.4,44,51,59,OFF,35,Normal
+TWR018,Mumbai,-83,3G,7.3,115,56,51,ON,34,Normal
+TWR004,Nagpur,-76,3G,115.1,55,91,68,Battery,35,Minor Alarm
+TWR020,Nashik,-88,2G,37.8,24,90,57,ON,47,Normal
+TWR012,Nagpur,-55,5G,,13,88,84,Battery,36,Minor Alarm
+TWR010,Mumbai,-80,4G,15.2,109,57,53,Battery,48,Minor Alarm
+TWR007,Pune,-56,5G,18.1,73,64,93,Battery,46,Normal
+TWR017,Nashik,-75,3G,178.7,75,84,75,Battery,45,Normal
+TWR019,Nashik,-82,2G,56.4,33,68,60,OFF,36,Normal
+TWR013,Aurangabad,-72,3G,65.1,18,48,93,ON,39,Normal
+TWR012,Mumbai,-66,2G,129,51,67,73,OFF,43,Normal
+TWR016,Nagpur,-71,4G,8.1,64,54,61,Battery,32,Normal
+TWR003,Nagpur,-78,2G,231.8,20,47,49,OFF,31,Normal
+TWR011,Mumbai,-79,4G,77.1,112,89,88,OFF,36,Normal
+TWR005,Aurangabad,-95,4G,193,44,92,67,OFF,42,Minor Alarm
+TWR001,Nashik,-70,3G,58.4,100,87,58,OFF,37,Normal
+TWR018,Nashik,-74,5G,198.4,48,94,57,OFF,43,Normal
+TWR015,Aurangabad,,2G,36.5,119,48,64,Battery,30,Normal
+TWR012,Nagpur,-69,3G,107.6,104,65,93,Battery,47,Normal
+TWR019,Pune,-87,2G,40.1,50,76,85,Battery,48,Minor Alarm
+TWR013,Mumbai,-91,5G,134.6,32,70,51,OFF,48,Critical
+TWR010,Pune,-89,3G,169.4,30,42,97,Battery,45,Normal
+TWR007,Pune,-77,5G,53.1,45,82,78,ON,44,Normal
+TWR017,Pune,-75,3G,215.2,60,65,55,ON,34,Normal
+TWR016,Pune,-82,5G,34.2,34,59,72,Battery,45,Normal
+TWR019,Nagpur,-63,3G,179.8,66,57,57,ON,34,Normal
+TWR013,Aurangabad,-62,3G,83.6,80,71,74,OFF,48,Normal
+TWR003,Nagpur,-73,5G,175.7,99,90,64,OFF,35,Normal
+TWR006,Aurangabad,-66,5G,97.4,92,51,89,Battery,33,Normal
+TWR002,Mumbai,-78,3G,220.9,76,58,87,ON,36,Minor Alarm
+TWR014,Aurangabad,-72,2G,21,21,72,94,OFF,43,Normal
+TWR009,Mumbai,-66,2G,8.6,89,84,88,Battery,44,Normal
+TWR013,Mumbai,-93,5G,4.7,22,85,53,OFF,44,Normal
+TWR003,Pune,,3G,36.8,113,57,98,ON,35,Minor Alarm
+TWR020,Pune,-77,3G,32.8,102,65,55,ON,30,Normal
+TWR005,Nashik,-84,4G,55.7,12,83,79,ON,44,Normal
+TWR017,Pune,,5G,112.1,84,40,48,OFF,36,Minor Alarm
+TWR012,Mumbai,-90,3G,6,11,40,66,ON,32,Normal
+TWR004,Mumbai,-93,3G,105.1,21,92,65,OFF,47,Normal
+TWR020,Mumbai,-68,5G,32,35,46,67,OFF,35,Normal
+TWR011,Pune,-82,5G,115.8,16,82,97,OFF,41,Normal
+TWR007,Nashik,-57,4G,125.9,21,85,79,Battery,35,Normal
+TWR004,Aurangabad,-55,4G,174.7,94,89,89,ON,40,Normal
+TWR011,Nashik,-74,2G,6.4,82,68,69,Battery,37,Normal
+TWR001,Mumbai,-56,2G,190.2,23,59,60,Battery,43,Normal
+TWR020,Pune,-87,2G,94.9,45,52,54,OFF,36,Normal
+TWR008,Aurangabad,-74,5G,35.3,48,81,95,ON,46,Normal
+TWR014,Nagpur,-81,2G,212,50,61,60,ON,47,Normal
+TWR008,Mumbai,-62,5G,81.8,64,80,45,ON,45,Normal
+TWR007,Pune,-82,3G,33.1,30,77,80,ON,37,Normal
+TWR014,Nashik,-85,4G,181,39,67,56,Battery,37,Normal
+TWR019,Nashik,-78,3G,215.9,69,45,68,OFF,42,Normal
+TWR015,Nashik,-86,5G,205.3,109,70,46,,43,Minor Alarm
+TWR010,Aurangabad,-60,3G,182.2,40,64,74,OFF,44,Normal
+TWR018,Aurangabad,-91,5G,84.6,99,70,57,ON,36,Normal
+TWR017,Nagpur,-70,5G,231.6,58,87,68,OFF,45,Normal
+TWR019,Pune,-93,5G,248.1,23,64,81,ON,36,Normal
+TWR009,Nagpur,-55,5G,172.7,97,43,86,OFF,43,Normal
+TWR008,Nashik,-72,2G,,94,41,89,Battery,34,Normal
+TWR015,Mumbai,-80,4G,151.3,92,93,55,ON,33,Normal
+TWR013,Nashik,-62,2G,227.7,120,67,55,OFF,38,Normal
+TWR017,Aurangabad,-58,5G,78.4,60,88,91,ON,33,Normal
+TWR012,Mumbai,-82,4G,232.6,58,84,64,ON,35,Minor Alarm
+TWR001,Pune,-69,2G,132.2,91,58,91,OFF,35,Normal
+TWR006,Mumbai,-64,3G,47.1,22,68,81,ON,35,Normal
+TWR006,Mumbai,-69,4G,111.3,87,46,85,ON,32,Normal
+TWR013,Pune,-91,4G,86.9,82,55,75,OFF,33,Normal
+TWR009,Pune,-89,2G,54.3,109,40,69,Battery,46,Critical
+TWR009,Nashik,-74,5G,151.9,51,63,88,OFF,40,Minor Alarm
+TWR012,Nashik,-56,5G,16.2,53,95,66,ON,30,Normal
+TWR013,Mumbai,-57,2G,32.5,75,57,89,ON,41,Normal
+TWR016,Aurangabad,-83,5G,2.8,89,92,65,ON,41,Minor Alarm
+TWR011,Nashik,,3G,122.2,102,79,95,ON,,Normal
+TWR016,Pune,-77,5G,152.6,99,49,78,Battery,46,Normal
+TWR016,Pune,-60,4G,246.8,67,50,73,ON,45,Normal
+TWR008,Mumbai,-85,3G,188.8,92,84,50,ON,43,Critical
+TWR001,Mumbai,-71,4G,192,36,86,61,Battery,45,Critical
+TWR004,Mumbai,-90,5G,199.3,50,95,59,Battery,32,Normal
+TWR013,Nashik,-81,5G,57.4,22,58,50,ON,32,Normal
+TWR019,Mumbai,-59,2G,93.2,117,60,69,Battery,30,Normal
+TWR019,Aurangabad,-71,3G,245,48,89,68,Battery,34,Normal
+TWR020,Aurangabad,,3G,100,76,94,74,OFF,34,Minor Alarm
+TWR010,Mumbai,-66,5G,38.6,44,49,92,Battery,31,Normal
+TWR010,Aurangabad,-78,2G,249.2,98,76,75,Battery,36,Normal
+TWR013,Pune,-86,4G,207.3,34,94,91,ON,31,Minor Alarm
+TWR006,Nashik,-76,5G,246.1,92,94,55,ON,47,Normal
+TWR014,Nashik,-70,4G,99,75,86,63,OFF,36,Normal
+TWR018,Nashik,-87,2G,82.2,109,77,96,ON,39,Normal
+TWR006,Aurangabad,-67,3G,174.6,45,49,58,ON,36,Normal
+TWR001,Nagpur,-86,2G,95.4,62,83,98,ON,31,Normal
+TWR016,Mumbai,-88,2G,245.1,91,61,82,OFF,34,Normal
+TWR013,Mumbai,-88,2G,61.7,70,59,89,Battery,35,Normal
+TWR013,Pune,-71,5G,70.3,91,68,68,ON,33,Normal
+TWR004,Nashik,-94,3G,147.5,81,70,62,Battery,33,Normal
+TWR006,Nashik,-68,5G,76,24,46,65,ON,47,Normal
+TWR001,Nashik,-91,5G,130.7,82,74,90,Battery,33,Normal
+TWR007,Pune,-57,3G,174.4,8,75,73,OFF,33,Normal
+TWR019,Mumbai,-90,3G,141.5,116,88,47,ON,33,Normal
+TWR012,Aurangabad,-68,3G,244.3,92,40,60,OFF,,Minor Alarm
+TWR017,Nagpur,-87,5G,145.1,96,60,78,OFF,47,Normal
+TWR004,Pune,-93,3G,48.6,46,94,98,ON,34,Normal
+TWR007,Aurangabad,-78,4G,,87,67,49,Battery,38,Normal
+TWR006,Nashik,-90,5G,236.3,94,67,89,ON,47,Normal
+TWR009,Mumbai,-59,4G,165,113,72,83,ON,43,Minor Alarm
+TWR011,Nashik,-94,5G,241.1,39,44,62,ON,47,Normal
+TWR018,Nashik,-74,2G,160.8,54,61,94,,34,Minor Alarm
+TWR008,Nagpur,-89,2G,95.5,36,64,51,ON,35,Normal
+TWR010,Aurangabad,,5G,133.2,97,76,63,Battery,38,Normal
+TWR002,Mumbai,-71,4G,46.8,111,87,88,Battery,47,Normal
+TWR013,Nashik,-79,3G,4.4,73,85,54,Battery,34,Normal
+TWR019,Nagpur,-55,2G,243.7,98,89,60,Battery,43,Normal
+TWR006,Nashik,-66,4G,126.6,43,67,78,Battery,37,Normal
+TWR003,Nagpur,-75,5G,211.6,89,45,49,Battery,37,Minor Alarm
+TWR006,Aurangabad,-90,2G,186.4,78,71,96,ON,43,Normal
+TWR005,Nashik,-63,5G,171.9,94,74,89,ON,42,Normal
+TWR007,Pune,-61,5G,187.9,39,87,87,Battery,31,Normal
+TWR006,Aurangabad,-84,3G,20.6,115,48,77,OFF,31,Normal
+TWR013,Mumbai,-88,4G,,94,55,98,Battery,,Normal
+TWR016,Nagpur,-82,4G,2.6,88,76,70,ON,39,Minor Alarm
+TWR017,Pune,-56,5G,212.4,15,62,45,Battery,44,Normal
+TWR012,Pune,,2G,222.8,31,65,67,ON,33,Normal
+TWR007,Pune,-69,3G,32.7,70,40,54,Battery,38,Normal
+TWR013,Nagpur,-72,4G,108.2,31,74,96,OFF,33,Critical
+TWR015,Mumbai,-73,3G,187.3,8,62,90,ON,33,Normal
+TWR002,Mumbai,-69,5G,186.5,12,50,87,ON,45,Critical
+TWR009,Pune,-64,5G,138.4,110,83,90,ON,40,Normal
+TWR013,Aurangabad,-87,5G,29.2,21,90,46,ON,34,Normal
+TWR001,Mumbai,-74,2G,108.6,84,87,45,OFF,,Normal
+TWR016,Pune,-80,5G,155.2,101,72,56,ON,38,Normal
+TWR009,Mumbai,-83,5G,119.5,108,91,51,Battery,46,Normal
+TWR007,Aurangabad,-81,3G,31.9,59,42,62,ON,34,Normal
+TWR020,Mumbai,-92,2G,96.3,75,59,89,Battery,37,Normal
+TWR014,Nashik,-63,2G,107.9,14,59,52,OFF,41,Normal
+TWR012,Nashik,-75,3G,224,31,42,45,ON,40,Normal
