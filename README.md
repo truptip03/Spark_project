@@ -11,11 +11,12 @@ Under the Guidance of prof. Huma Kazi and prof. Mayur Taware
  • Built a simple PowerBi dashboard (Pie + Bar Charts)
  • Collaborated efficiently as a team 🤝
 # ✨ Team Members:
- Shaikh Saniya
- Soha Shaikh
- Gauri Sase
- Meenal Sarode
- Trupti Puranik
+ • Trupti Puranik
+ • Gauri Sase
+ • Saniya Shaikh
+ • Soha Shaikh
+ • Meenal Sarode
+ • Collaborated efficiently as a team 🤝
 Proud of what we created together!
  Excited for more Cloud & Data Engineering projects ahead 🚀✨
 hashtag#cloudcomputing hashtag#databricks hashtag#etl hashtag#pyspark hashtag#dataengineering hashtag#studentprojects hashtag#teamwork hashtag#networkperformance
